@@ -1,6 +1,6 @@
 # Hi there, I'm Lawrence Whalenz (he/him) 👋
 
-I am a very progressive former IT support 
+I am a very progressive former IT support support staff turned back-end engineer.
 
 ## Connect With Me
 
